@@ -1,2 +1,2 @@
 # sldasm-to-urdf
-Convert sldasm to urdf
+- Repository for converting sldasm to urdf
