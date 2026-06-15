@@ -10,3 +10,8 @@ How to converting sldasm to urdf
 2. Follow the instructions on the screen.
 3. Check the installation destination folder (usually OK as the default) and click "Install".
 4. When the installation is complete, close the installer with "Finish".
+### Confirmation of activation on SolidWorks
+1. Start SolidWorks
+2. "Tools" > "Add-ins..." on the top menu Select.
+3. A list window of add-ins will appear, so look for the "Other Add-ins" column at the bottom.
+4. Check the item "SW2URDF".
