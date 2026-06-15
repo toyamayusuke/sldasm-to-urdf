@@ -18,3 +18,8 @@ How to converting sldasm to urdf
 ### 4. Confirmation of activation
 If enabled correctly, when you open the assembly file (.sldasm), you will be able to access the export function from the following locations.
 ## How to use sw2urdf
+### 1. Advance preparations
+### 2. Start the SW2URDF toolbox
+### 3. Link & Joint Property Page
+### 4. Joint & Link Property Window
+### 5. Export
