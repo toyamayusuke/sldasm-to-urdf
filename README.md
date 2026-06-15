@@ -15,3 +15,4 @@ How to converting sldasm to urdf
 2. "Tools" > "Add-ins..." on the top menu Select.
 3. A list window of add-ins will appear, so look for the "Other Add-ins" column at the bottom.
 4. Check the item "SW2URDF".
+### 4. Confirmation of activation
