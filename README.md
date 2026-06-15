@@ -1,4 +1,4 @@
 # sldasm-to-urdf
-- Repository for converting sldasm to urdf
+This Repository is to converting sldasm to urdf
 ## Advance preparations
 -
