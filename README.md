@@ -3,6 +3,7 @@ How to converting sldasm to urdf
 ## Preparations
 ### 1. Download the file
 1. Access the Releases page of [SolidWorks to URDF exporter](https://github.com/ros/solidworks_urdf_exporter)
+   - ![When you access it, you will see a screen like this](https://querulous-orange-vclbjbhg.edgeone.dev/ros_solidworks_urdf_exporter_%20SolidWorks%20to%20URDF%20Exporter%20%E3%81%8A%E3%82%88%E3%81%B3%E4%BB%96%2017%20%E3%83%9A%E3%83%BC%E3%82%B8%20-%20%E5%AD%A6%E6%A0%A1%20-%20Microsoft%E2%80%8B%20Edge%202026_06_21%2014_24_10.png)
 2. Download sw2urdf_setup.exe in the Assets column of Latest.
 ### 2. Installation procedure
 ※Warning: Be sure to completely terminate SolidWorks before installing.
